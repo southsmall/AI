@@ -1,0 +1,1 @@
+包含cnn 和resnet resnet在mnist训练集里面可达到99.5
