@@ -132,7 +132,7 @@ def main(args=None):
                         help='input batch size for testing (default: 1000)')
 
     # 添加训练轮次参数
-    parser.add_argument('--epochs', type=int, default=20, metavar='N',
+    parser.add_argument('--epochs', type=int, default=5, metavar='N',
                         help='number of epochs to train (default: 14)')
 
     # 添加初始学习率参数
